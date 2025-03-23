@@ -28,6 +28,11 @@ Clone and build the demo (SDL2 & glow) / Tested on linux:
 $ cargo run --example demo-sdl2
 ```
 
+Clone and build the demo (SDL3 & glow) / Tested on linux:
+```
+$ cargo run --example demo-sdl3
+```
+
 ![random](https://github.com/NeoCogi/microui-rs/raw/master/res/microui.png)
 
 ## Caveats
